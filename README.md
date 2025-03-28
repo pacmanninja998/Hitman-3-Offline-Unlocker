@@ -6,4 +6,4 @@ Unlocks all game items and suits while in offline mode
 
 ---
 
-`pacmanninja998.unlocker` v1.0.0, by pacmanninja998. This README was automatically generated from the mod's manifest.
+`pacmanninja998.unlocker` v2.0.0, by pacmanninja998. This README was automatically generated from the mod's manifest.
