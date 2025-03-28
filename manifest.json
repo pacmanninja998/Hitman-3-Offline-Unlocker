@@ -6,5 +6,4 @@
 	"description": "Unlocks all game items and suits while in offline mode",
 	"authors": ["pacmanninja998"],
 	"frameworkVersion": "2.33.9"
-	"updateCheck": "https://github.com/pacmanninja998/Hitman-3-Offline-Unlocker/releases/latest/download/updates.json"
 }
